@@ -48,6 +48,7 @@ public class Student {
 
         }
     connection.close();
+      System.out.println("connection closed");
 
 
 
